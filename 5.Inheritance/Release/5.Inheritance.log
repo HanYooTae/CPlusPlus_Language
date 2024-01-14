@@ -1,0 +1,17 @@
+﻿  18-1.cpp
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(21,11): error C2365: 'Character::Attack': 재정의: 이전 정의는 '멤버 함수'입니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(12): message : 'Character::Attack' 선언을 참조하십시오.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(115): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(121): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(122): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(123): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(124): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(125): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(126): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(127): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(128): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(129): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(130): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(131): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(132): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\5.Inheritance\18-1.cpp(133): error C2102: '&'에 l-value가 있어야 합니다.

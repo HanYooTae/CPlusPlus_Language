@@ -1,0 +1,4 @@
+﻿  스네이크게임.cpp
+C:\Users\user\Desktop\C++\C++_Language (3)\과제\스네이크게임.cpp(94,31): warning C4227: 오래된 구문을 사용했습니다. 참조의 한정자가 무시됩니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\과제\스네이크게임.cpp(115,31): warning C4227: 오래된 구문을 사용했습니다. 참조의 한정자가 무시됩니다.
+  과제.vcxproj -> C:\Users\user\Desktop\C++\C++_Language (3)\Debug\스네이크게임.exe

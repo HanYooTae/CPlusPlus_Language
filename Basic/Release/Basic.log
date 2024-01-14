@@ -1,0 +1,7 @@
+﻿  03_variable(컴파일타임, 런타임).cpp
+C:\Users\user\Desktop\C++\C++_Language (3)\Basic\03_variable(컴파일타임, 런타임).cpp(19,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\Basic\03_variable(컴파일타임, 런타임).cpp(20,16): error C2397: 'double'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\Basic\03_variable(컴파일타임, 런타임).cpp(21,14): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\Basic\03_variable(컴파일타임, 런타임).cpp(21,11): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\Basic\03_variable(컴파일타임, 런타임).cpp(22,17): error C2397: 'int'에서 'char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\Basic\03_variable(컴파일타임, 런타임).cpp(22,13): warning C4309: '초기화 중': 상수 값이 잘립니다.

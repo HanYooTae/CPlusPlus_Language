@@ -1,0 +1,6 @@
+﻿  snake.cpp
+C:\Users\user\Desktop\C++\C++_Language (3)\스네이크_Temp\snake.cpp(9,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\스네이크_Temp\snake.cpp(9,23): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\스네이크_Temp\snake.cpp(41,18): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\user\Desktop\C++\C++_Language (3)\스네이크_Temp\snake.cpp(61,22): warning C4244: '=': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  스네이크_Temp.vcxproj -> C:\Users\user\Desktop\C++\C++_Language (3)\Debug\스네이크_Temp.exe

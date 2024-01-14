@@ -1,0 +1,5 @@
+﻿  main.cpp
+  미니RPG.cpp
+C:\Users\user\Desktop\C++\C++_Language (3)\미니RPG\미니RPG.cpp(176,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  미니RPG.vcxproj -> C:\Users\user\Desktop\C++\C++_Language (3)\Debug\미니RPG.exe
